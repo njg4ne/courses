@@ -6,6 +6,7 @@
 <!-- import styles.css -->
 <head>
     <title>njg4ne</title>
+    <!-- <base href="/courses" /> -->
     <!-- {#if process.env.NODE_ENV === "development"}
         <base href="/" />
     {:else}

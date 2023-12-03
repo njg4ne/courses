@@ -3,13 +3,14 @@ import adapter from '@sveltejs/adapter-static';
 export default {
 	kit: {
 		adapter: adapter({
-			pages: 'docs',
+			pages: 'courses',
 			precompress: false,
 			strict: true,
 		}),
 		paths: {
 			base: '/courses',
-			relative: false,
+			// relative: false,
+			// assets: '/courses',
 		}
 	}
 };
