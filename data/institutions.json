@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "abbreviation": "PVCC",
+        "name": "Piedmont Virginia Community Colllege",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "USA",
+        "level": "2-year"
+    },
+    {
+        "id": 2,
+        "abbreviation": "VT",
+        "name": "Virginia Polytechnic Institute and State University",
+        "city": "Blacksburg",
+        "state": "VA",
+        "country": "USA",
+        "level": "4-year"
+    },
+    {
+        "id": 3,
+        "abbreviation": "UVA",
+        "name": "University of Virginia",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "USA",
+        "level": "4-year"
+    },
+    {
+        "id": 4,
+        "abbreviation": "AHS",
+        "name": "Albemarle High School",
+        "city": "Charlottesville",
+        "state": "VA",
+        "country": "USA",
+        "level": "secondary"
+    }
+]

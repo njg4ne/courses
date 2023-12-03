@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "institution-id": 1,
+        "type": "Non-degree",
+        "school": "Arts & Humanities Area of Interest",
+        "field": "General Studies",
+        "complete": null,
+        "gpa-earned": 4,
+        "gpa-max": 4,
+        "month": "",
+        "year": null
+    },
+    {
+        "id": 2,
+        "institution-id": 3,
+        "type": "Non-degree",
+        "school": "School of Continuing and Professional Studies",
+        "field": "Spanish",
+        "complete": null,
+        "gpa-earned": 4,
+        "gpa-max": 4,
+        "month": "",
+        "year": null
+    },
+    {
+        "id": 3,
+        "institution-id": 2,
+        "type": "Bachelor of Science",
+        "school": "College of Engineering",
+        "field": "Computer Science",
+        "complete": true,
+        "gpa-earned": 3.87,
+        "gpa-max": 4,
+        "month": "May",
+        "year": 2021
+    },
+    {
+        "id": 4,
+        "institution-id": 3,
+        "type": "Master of Engineering",
+        "school": "School of Engineering and Applied Science",
+        "field": "Systems Engineering",
+        "complete": true,
+        "gpa-earned": 4,
+        "gpa-max": 4,
+        "month": "May",
+        "year": 2023
+    },
+    {
+        "id": 5,
+        "institution-id": 3,
+        "type": "Doctor of Philosophy",
+        "school": "School of Engineering and Applied Science",
+        "field": "Systems Engineering",
+        "complete": false,
+        "gpa-earned": 4,
+        "gpa-max": 4,
+        "month": "May",
+        "year": 2026
+    }
+]
