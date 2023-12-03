@@ -5,7 +5,7 @@
 </script>
 
 <h1>Education</h1>
-<div><a href="./{1}/">Test</a></div>
+<!-- <div><a href="./{1}/">Test</a></div> -->
 
 <div>
     <table>
